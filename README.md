@@ -17,7 +17,7 @@ https://www.figma.com/file/5exk7J3lVwgvjFC3aMhZfX/Design-System-B%C3%A1sico?type
 ## Tecnologias utilizadas:
  -Figma
 
-## Autor 
+## Autora 
 Raffaela Freitas
 
 email: irsf84@gmail.com
