@@ -1,5 +1,7 @@
 # Design-System-Basico
-Construção de um Design System aplicando todos os conceitos aprendidos até aqui, construindo todos os componentes, guia de cores e interações. Para isso usei lizar o Wireframe que você construiu no Desafio anterior como base (https://github.com/Raffafe/Criando-um-Wireframe.git)
+Construção de um Design System aplicando todos os conceitos aprendidos até aqui, construindo todos os componentes, guia de cores e interações. Para isso usei lizar o Wireframe que você construiu no Desafio anterior como base 
+
+https://github.com/Raffafe/Criando-um-Wireframe.git
 
 
 ![Design-System-Básico-1](https://github.com/Raffafe/Criando-um-Wireframe/assets/86832858/a6a510a0-c4c2-4068-9c05-26db242bd433)
